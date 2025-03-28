@@ -1,2 +1,2 @@
 # github-actions-tutorial
-Github Actions를 이용하는 공부
+Github Actions 학습
